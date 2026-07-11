@@ -2,6 +2,6 @@ import { defineConfig } from 'vite'
 import react from '@vitejs/plugin-react'
 
 export default defineConfig({
-  base: '/random-number-generator/',
+  base: '/RANDOM-NUMBER-GENERATOR/',
   plugins: [react()],
 })
